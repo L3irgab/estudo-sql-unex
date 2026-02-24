@@ -17,6 +17,7 @@ Ela permite:
 - Inserir dados
 - Atualizar dados
 - Excluir dados
+
 - Consultar informações
 
 Exemplo simples:
